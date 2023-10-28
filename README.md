@@ -4,7 +4,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 [Next.js 14](https://nextjs.org/docs/getting-started/installation) </br>
 [React Query v3](https://tanstack.com/query/v3/docs/react/quick-start) </br>
-[JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+[JSONPlaceholder](https://jsonplaceholder.typicode.com/) </br>
+[Tailwindcss](https://tailwindcss.com/)
 
 ## Getting Started
 
