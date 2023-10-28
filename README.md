@@ -2,8 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Tools
 
-[Next.js 14](https://nextjs.org/docs/getting-started/installation)
-[React Query v3](https://tanstack.com/query/v3/docs/react/quick-start)
+[Next.js 14](https://nextjs.org/docs/getting-started/installation) </br>
+[React Query v3](https://tanstack.com/query/v3/docs/react/quick-start) </br>
 [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
 ## Getting Started
