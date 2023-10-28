@@ -1,5 +1,11 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Tools
+
+[Next.js 14](https://nextjs.org/docs/getting-started/installation)
+[React Query v3](https://tanstack.com/query/v3/docs/react/quick-start)
+[JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+
 ## Getting Started
 
 First, run the development server:

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { api } from "./api";
+import { useState } from "react";
 
 type TodosProps = {
   userId: number;
@@ -8,6 +9,8 @@ type TodosProps = {
 };
 
 export default function Home() {
+  const [data, setData] = useState<TodosProps[] | null>(null);
+
   const getPosts = async () => {
     const response = await api.get<TodosProps[]>("/");
     return response.data;
